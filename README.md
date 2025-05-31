@@ -70,7 +70,7 @@ See [`requirements.md`](requirements.md) for a full list of required libraries a
 
 ## Contributing
 - Fork, create a new branch, and submit a pull request for new features or bug fixes
-- Contact: [lib.hcmut.edu.vn](https://lib.hcmut.edu.vn)
+- Contact: caothanhtien@gmail.com
 
 ---
 **SMRS - Smart Space Management for HCMUT Library**
