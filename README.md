@@ -41,9 +41,7 @@ Smart Space Study (SMRS) is a comprehensive web-based platform that enables stud
 - Change room status (e.g., set to Maintenance)
 - Approve or cancel bookings and respond to feedback
 
-![Demo Screenshot 1](Frontend/src/assets/images/anhthuvien1.jpg)
-![Demo Screenshot 2](Frontend/src/assets/images/anhthuvien2.jpg)
-![Demo Screenshot 3](Frontend/src/assets/images/anhthuvien3.jpg)
+[![Watch Demo on YouTube](https://img.youtube.com/vi/wFhUVO4VUOA/0.jpg)](https://www.youtube.com/watch?v=wFhUVO4VUOA)
 
 ## Getting Started
 ### 1. Backend
